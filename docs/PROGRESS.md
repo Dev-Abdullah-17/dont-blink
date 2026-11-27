@@ -4,15 +4,16 @@ Deadline: Dec 4, 2026, 5 PM EST (Dec 5, 3 AM Pakistan time). Target submission: 
 Legend: [x] done, [~] in progress, [ ] not started, [-] cut
 
 ## Phase 0: Foundation (Nov 27)
-- [x] GitHub repo with MIT license
-- [x] Vite + TypeScript scaffold, dev server runs
-- [ ] Prettier + ESLint configured
-- [ ] Folder structure
-- [ ] Contract files: events.ts, spells.ts
-- [ ] Steering files
-- [ ] MCP servers (Context7, Playwright) + GitHub power or MCP
-- [ ] GitHub Projects board
-- [ ] Kiro credits plan decided
+- [✓] GitHub repo with MIT license
+- [✓] Vite + TypeScript scaffold, dev server runs
+- [✓] Prettier + ESLint configured
+- [✓] Folder structure
+- [✓] Folder structure
+- [✓] Contract files: events.ts, spells.ts
+- [✓] Steering files
+- [✓] MCP servers (Context7, Playwright) + GitHub power or MCP
+- [✓] GitHub Projects board
+- [~] Kiro credits plan decided
 
 ## Phase 1: Blink detection (Nov 28) — GO/NO-GO by end of day
 - [ ] Spec: vision-input (requirements, design, tasks)

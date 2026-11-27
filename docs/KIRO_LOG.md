@@ -9,5 +9,5 @@ steering, MCP, property-based testing, powers.
 - Surface: Kiro IDE
 - Feature used: steering (product, tech, structure, event-contract, horror-tone, performance)
 - What happened:
-- Screenshot:
+- Screenshot:![alt text](image.png)
 - What it changed / lesson:
